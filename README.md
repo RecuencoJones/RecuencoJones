@@ -14,7 +14,7 @@ This is RecuencoJones and I love solving problems :smile:
 - Rust (not too good at it tho)
 
 
-:pray: Tools I really enjoy using:
+:heart: Tools I really enjoy using:
 - [Caddy](https://caddyserver.com/)
 - [Gomplate](https://docs.gomplate.ca/)
 
