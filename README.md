@@ -8,9 +8,15 @@ This is RecuencoJones and I love solving problems :smile:
 - NestJS 😻
 - More often than not participate in DevOps activities. Which translates into groovyish, bashy or pythony stuff.
 
+
 🌱 Currently learning:
 - Golang
 - Rust (not too good at it tho)
+
+
+:pray: Tools I really enjoy using:
+- [Caddy](https://caddyserver.com/)
+- [Gomplate](https://docs.gomplate.ca/)
 
 
 ⚡ Fun fact: 
