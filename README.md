@@ -6,12 +6,13 @@ This is RecuencoJones and I love solving problems :smile:
 - JavaScript & TypeScript all around with a heavy preference for frontend development.
 - Vue 💚 and React ⚛️
 - NestJS 😻
-- More often than not participate in DevOps activities. Which translates into groovyish, bashy or pythony stuff.
+- More often than not, participate in DevOps activities. Which translates into groovyish, bashy or pythony stuff.
 
 
 🌱 Currently learning:
 - Golang
 - Rust (not too good at it tho)
+- C++
 
 
 :heart: Tools I really enjoy using:
